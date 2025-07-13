@@ -1,0 +1,115 @@
+[
+  [
+    {
+      "category": "Operating Systems",
+      "categoryId": "6",
+      "idea": "Beyond Containers: Exploring Unikernels for Ultra-Efficient Deployments"
+    },
+    {
+      "category": "Operating Systems",
+      "categoryId": "6",
+      "idea": "The Rise of eBPF: Revolutionizing Observability and Network Security in Modern Kernels"
+    },
+    {
+      "category": "Operating Systems",
+      "categoryId": "6",
+      "idea": "OS-Level Virtualization: Deep Dive into Lightweight Alternatives to Traditional VMs"
+    },
+    {
+      "category": "Operating Systems",
+      "categoryId": "6",
+      "idea": "Modern Memory Management: Optimizing for Performance and Security in the Era of Persistent Memory"
+    },
+    {
+      "category": "Operating Systems",
+      "categoryId": "6",
+      "idea": "Choosing the Right Real-Time OS (RTOS): A Comprehensive Guide for Embedded Systems"
+    }
+  ],
+  [
+    {
+      "category": "Networking",
+      "categoryId": "8",
+      "idea": "Beyond Ping: Mastering Network Troubleshooting with Modern Tools"
+    },
+    {
+      "category": "Networking",
+      "categoryId": "8",
+      "idea": "Zero Trust Networking: A Practical Guide for Developers in 2024"
+    },
+    {
+      "category": "Networking",
+      "categoryId": "8",
+      "idea": "Network Observability: Unlock Performance Insights with eBPF"
+    },
+    {
+      "category": "Networking",
+      "categoryId": "8",
+      "idea": "Kubernetes Networking Demystified: Services, Ingress, and More"
+    },
+    {
+      "category": "Networking",
+      "categoryId": "8",
+      "idea": "The Future of SD-WAN: Adapting to Hybrid Work Environments"
+    }
+  ],
+  [
+    {
+      "category": "Blog",
+      "categoryId": "1",
+      "idea": "Beyond Passwords: Multi-Factor Authentication Deep Dive (2024)"
+    },
+    {
+      "category": "Blog",
+      "categoryId": "1",
+      "idea": "Kubernetes Security Best Practices: A Practical Checklist"
+    },
+    {
+      "category": "Blog",
+      "categoryId": "1",
+      "idea": "Infrastructure as Code (IaC) Security: Threats and Mitigation"
+    },
+    {
+      "category": "Blog",
+      "categoryId": "1",
+      "idea": "The Rise of DevSecOps: Integrating Security into the Development Lifecycle"
+    },
+    {
+      "category": "Blog",
+      "categoryId": "1",
+      "idea": "Serverless Security: Protecting Your Cloud Functions"
+    }
+  ],
+  [
+    {
+      "category": "Best Coding Practices",
+      "categoryId": "16",
+      "idea": "AI-Powered Code Reviews: Boosting Quality and Speed"
+    },
+    {
+      "category": "Best Coding Practices",
+      "categoryId": "16",
+      "idea": "Test-Driven Development (TDD) for Infrastructure as Code"
+    },
+    {
+      "category": "Best Coding Practices",
+      "categoryId": "16",
+      "idea": "The Art of Writing Self-Documenting Code: A Practical Guide"
+    },
+    {
+      "category": "Best Coding Practices",
+      "categoryId": "16",
+      "idea": "Git Hygiene: Mastering Branching Strategies and Commit Messages"
+    },
+    {
+      "category": "Best Coding Practices",
+      "categoryId": "16",
+      "idea": "Effective Error Handling: Building Resilient Applications"
+    }
+  ],
+  {
+    "category": "Data Storage",
+    "categoryId": "9",
+    "idea": "Object Storage vs. Block Storage: Choosing the Right Solution for Your Needs in 2024"
+  }
+]
